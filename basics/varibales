@@ -1,0 +1,9 @@
+# variables doesn't need to be specified before asinging any value for it 
+message = "this is a message"
+x = 3 
+y = 7.5 
+print(x+y)
+print(x-y)
+print(x/y)
+print(x*y)
+print(message)
