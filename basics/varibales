@@ -6,8 +6,6 @@ print(x-y)
 print(x/y)
 print(x*y)
 print(message)
-
-
 """
 - variables doesn't need to be specified before asinging any value for it
 - illegal variables which start with numbers or symbols @,#,!,... etc 
